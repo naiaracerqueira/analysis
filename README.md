@@ -17,7 +17,7 @@ Meu objetivo final é implementar uma aplicação de integração de dados. São
 
 Análise exploratória dos dados do Enem 2016.
 
-Esse análise virou um [texto no meu Medium](https://medium.com/pyladiesbh/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-enem-d1a7cccf44890)
+Esse análise virou um [texto no meu Medium](https://medium.com/pyladiesbh/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-enem-d1a7cccf4489)
 
 ## Ensino Superior
 
